@@ -1,0 +1,37 @@
+[
+{ 
+    "nombres": "janely quispe villegas",
+    "correo": "janely@gamil.com",
+    "clave": "jane2006" 
+},
+{
+    "nombres": "maria rosario de la cruz",
+    "correo": " maria@gmail.com",
+    "clave": "mari2002" 
+},
+{
+    "nombres": "ruth sullayme rios",
+    "correo": " ruth@gmail.com",
+    "clave": "ruth321" 
+},
+{
+    "nombres": "mario rodriguez arenas",
+    "correo": "mario@gamil.com",
+    "clave": "mario123" 
+},
+{ 
+    "nombres": "andrey cruz varela",
+    "correo": "cruz@gamil.com",
+    "clave": "andrey000" 
+},
+{
+    "nombres": "jose ramirez anampa",
+    "correo": "jose@gamil.com",
+    "clave": "jose002" 
+},
+{
+    "nombres": "sofia villegas garcia",
+    "correo": "sofia@gmai.com",
+    "clave": "villegas230" 
+}
+]

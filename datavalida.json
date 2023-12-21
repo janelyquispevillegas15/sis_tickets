@@ -1,0 +1,44 @@
+[
+    { 
+        "numclient": "01",
+        "Fecha": "10/12/2023",
+        "numticket": "001",
+        "precio": "5.00"
+    },
+    {
+        "numclient": "02",
+        "Fecha": "11/12/2023",
+        "numticket": "002",
+        "precio": "5.00"
+    },
+    {
+         "numclient": "03",
+         "Fecha": "12/12/2023",
+         "numticket": "003",
+         "precio": "5.00"
+    },
+    {
+        "numclient": "04",
+         "Fecha": "13/12/2023",
+         "numticket": "004",
+         "precio": "5.00"
+    },
+    { 
+        "numclient": "05",
+         "Fecha": "14/12/2023",
+         "numticket": "005",
+         "precio": "5.00"
+    },
+    {
+        "numclient": "06",
+        "Fecha": "15/12/2023",
+        "numticket": "006",
+        "precio": "5.00"
+    },
+    {
+        "numclient": "07",
+        "Fecha": "16/12/2023",
+        "numticket": "007",
+        "precio": "5.00"
+    }
+    ]

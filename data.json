@@ -1,0 +1,66 @@
+[
+    { 
+        "nombre": "Freddy",
+        "apellido": "Moscoso",
+        "dni": "45873698",
+        "email": "fredy@lampa.com",
+        "telefono": "985687536",
+        "address": "calle los geranios s/n - lampa"
+    },
+    {
+        "nombre": "Janely",
+        "apellido": "Quispe Villegas",
+        "dni": "73873638",
+        "email": "janely@pauza.com",
+        "telefono": "963687536",
+        "address": "calle comercio 453 - pauza"
+    },
+    {
+        "nombre": "Wilman",
+        "apellido": "Cayo",
+        "dni": "86854698",
+        "email": "Wilman200@gmail.com",
+        "telefono": "942687536",
+        "address": "jr. Comercio 480 - Pauza"
+    },
+    {
+        "nombre": "Sarai",
+        "apellido": "Sivirichi",
+        "dni": "35873698",
+        "email": "rominat@lima.com",
+        "telefono": "925687536",
+        "direccion": "calle la perdicion 911 - San Sebastian de Sacraca"
+    },
+    { 
+        "nombre": "Angel",
+        "apellido": "Chavez",
+        "dni": "65873698",
+        "email": "chavez20@mirmaca.com",
+        "telefono": "942687536",
+        "direccion": "Av. el rio 200 - Mirmaca"
+    },
+    {
+        "nombre": "Julio",
+        "apellido": "Diaz Molina",
+        "dni": "949687536",
+        "email": "jmolina@hotmail.com",
+        "telefono": "967454936",
+        "direccion": "Jr. Marcabamba 4150 - Lampa"
+    },
+    {
+        "nombre": "Celeste",
+        "apellido": "De la Cruz",
+        "dni": "963687536",
+        "email": "celeste@hotmail.com",
+        "telefono": "928754936",
+        "direccion": "Jr. parinacochas 320 - Otococha"
+    },    
+    {
+        "nombre": "Lilly",
+        "apellido": "Rojas",
+        "dni": "26854698",
+        "email": "lilly500@gmail.com",
+        "telefono": "982687536",
+        "direccion": "calle los desamparados 500 - Pauza"
+    }
+]
